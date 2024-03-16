@@ -14,4 +14,6 @@ It contains two Rmakrdown files:
 1) Champions_League_Attention_revised; which is the first one to be executed and performs the attention over time
 2) Champions_League_preprocessing_Content_revised2; is the second one to be executed and performs the content analysis
 
-Furthermore, the respecting datasets are stored in the folder "Daten" and the term-paper is available as Supplement_CSS_Term_Paper-3.
+Furthermore, the respective datasets and all output plots are stored in the folder "Daten" depending on weather it is considering the "count" (attention over time) or the content.
+
+The term-paper is available as Supplement_CSS_Term_Paper-3 as a pdf document.
